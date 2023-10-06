@@ -44,3 +44,7 @@ Must-read Papers on Large Language Model (LLMs) as Optimizers and Automatic Opti
 
    *Eric Zelikman, Eliana Lorch, Lester Mackey, Adam Tauman Kalai.* [[abs](https://arxiv.org/abs/2310.02304)]. Preprint. 2310.
 
+1. **DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines**
+
+   *Omar Khattab, Arnav Singhvi, Paridhi Maheshwari, Zhiyuan Zhang, Keshav Santhanam, Sri Vardhamanan, Saiful Haq, Ashutosh Sharma, Thomas T. Joshi, Hanna Moazam, Heather Miller, Matei Zaharia, Christopher Potts.* [[abs](https://arxiv.org/abs/2310.03714)]. Preprint. 2310.
+
