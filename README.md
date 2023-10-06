@@ -2,7 +2,7 @@
 
 [![Awesome](https://camo.githubusercontent.com/64f8905651212a80869afbecbf0a9c52a5d1e70beab750dea40a994fa9a9f3c6/68747470733a2f2f617765736f6d652e72652f62616467652e737667)](https://github.com/AGI-Edgerunners/LLM-Optimizers-Papers) [![License: MIT](https://camo.githubusercontent.com/fd551ba4b042d89480347a0e74e31af63b356b2cac1116c7b80038f41b04a581/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d677265656e2e737667)](https://opensource.org/licenses/MIT) <img src="https://img.shields.io/github/last-commit/tensorflow/tensorflow.svg"/> [![img](https://camo.githubusercontent.com/eafac29b763e18c4d80c680d6a179f348cfa2afbc8d3a45642df19fd580d2404/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d57656c636f6d652d726564)](https://camo.githubusercontent.com/eafac29b763e18c4d80c680d6a179f348cfa2afbc8d3a45642df19fd580d2404/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d57656c636f6d652d726564)
 
-Must-read Papers on Large Language Model (LLMs) as Optimizers.
+Must-read Papers on Large Language Model (LLMs) as Optimizers and Automatic Optimization for LLMs.
 
 ---
 
@@ -11,6 +11,22 @@ Must-read Papers on Large Language Model (LLMs) as Optimizers.
 - **2023-10-06 We create this paper list on *LLM as Optimizers* .**
 
 ## 🗞️ Papers
+
+1. **RLPrompt: Optimizing Discrete Text Prompts with Reinforcement Learning**
+
+   *Mingkai Deng, Jianyu Wang, Cheng-Ping Hsieh, Yihan Wang, Han Guo, Tianmin Shu, Meng Song, Eric P. Xing, Zhiting Hu.* [[abs](https://arxiv.org/abs/2205.12548)]. EMNLP 2022.
+
+1. **GrIPS: Gradient-free, Edit-based Instruction Search for Prompting Large Language Models**
+
+   *Archiki Prasad, Peter Hase, Xiang Zhou, Mohit Bansal.* [[abs](https://arxiv.org/abs/2203.07281)]. EACL 2023.
+
+1. **Automatic Prompt Optimization with "Gradient Descent" and Beam Search**
+
+   *Reid Pryzant, Dan Iter, Jerry Li, Yin Tat Lee, Chenguang Zhu, Michael Zeng.* [[abs](https://arxiv.org/abs/2305.03495)]. Preprint. 2305.03495.
+
+1. **InstructZero: Efficient Instruction Optimization for Black-Box Large Language Models**
+
+   *Lichang Chen, Jiuhai Chen, Tom Goldstein, Heng Huang, Tianyi Zhou.* [[abs](https://arxiv.org/abs/2306.03082)]. Preprint. 2306.03082.
 
 1. **Large Language Models as Optimizers**
 
@@ -23,4 +39,8 @@ Must-read Papers on Large Language Model (LLMs) as Optimizers.
 1. **Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers**
 
    *Qingyan Guo, Rui Wang, Junliang Guo, Bei Li, Kaitao Song, Xu Tan, Guoqing Liu, Jiang Bian, Yujiu Yang.* [[abs](https://arxiv.org/abs/2309.08532)]. Preprint. 2309.08532.
+
+1. **Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation**
+
+   *Eric Zelikman, Eliana Lorch, Lester Mackey, Adam Tauman Kalai.* [[abs](https://arxiv.org/abs/2310.02304)]. Preprint. 2310.02304.
 
