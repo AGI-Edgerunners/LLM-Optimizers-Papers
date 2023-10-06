@@ -22,25 +22,25 @@ Must-read Papers on Large Language Model (LLMs) as Optimizers and Automatic Opti
 
 1. **Automatic Prompt Optimization with "Gradient Descent" and Beam Search**
 
-   *Reid Pryzant, Dan Iter, Jerry Li, Yin Tat Lee, Chenguang Zhu, Michael Zeng.* [[abs](https://arxiv.org/abs/2305.03495)]. Preprint. 2305.03495.
+   *Reid Pryzant, Dan Iter, Jerry Li, Yin Tat Lee, Chenguang Zhu, Michael Zeng.* [[abs](https://arxiv.org/abs/2305.03495)]. Preprint. 2305.
 
 1. **InstructZero: Efficient Instruction Optimization for Black-Box Large Language Models**
 
-   *Lichang Chen, Jiuhai Chen, Tom Goldstein, Heng Huang, Tianyi Zhou.* [[abs](https://arxiv.org/abs/2306.03082)]. Preprint. 2306.03082.
+   *Lichang Chen, Jiuhai Chen, Tom Goldstein, Heng Huang, Tianyi Zhou.* [[abs](https://arxiv.org/abs/2306.03082)]. Preprint. 2306.
 
 1. **Large Language Models as Optimizers**
 
-   *Chengrun Yang, Xuezhi Wang, Yifeng Lu, Hanxiao Liu, Quoc V. Le, Denny Zhou, Xinyun Chen.* [[abs](https://arxiv.org/abs/2309.03409)]. Preprint. 2309.03409.
+   *Chengrun Yang, Xuezhi Wang, Yifeng Lu, Hanxiao Liu, Quoc V. Le, Denny Zhou, Xinyun Chen.* [[abs](https://arxiv.org/abs/2309.03409)]. Preprint. 2309.
 
 1. **Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution**
 
-   *Chrisantha Fernando, Dylan Banarse, Henryk Michalewski, Simon Osindero, Tim Rocktäschel.* [[abs](https://arxiv.org/abs/2309.16797)]. Preprint. 2309.16797.
+   *Chrisantha Fernando, Dylan Banarse, Henryk Michalewski, Simon Osindero, Tim Rocktäschel.* [[abs](https://arxiv.org/abs/2309.16797)]. Preprint. 2309.
 
 1. **Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers**
 
-   *Qingyan Guo, Rui Wang, Junliang Guo, Bei Li, Kaitao Song, Xu Tan, Guoqing Liu, Jiang Bian, Yujiu Yang.* [[abs](https://arxiv.org/abs/2309.08532)]. Preprint. 2309.08532.
+   *Qingyan Guo, Rui Wang, Junliang Guo, Bei Li, Kaitao Song, Xu Tan, Guoqing Liu, Jiang Bian, Yujiu Yang.* [[abs](https://arxiv.org/abs/2309.08532)]. Preprint. 2309.
 
 1. **Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation**
 
-   *Eric Zelikman, Eliana Lorch, Lester Mackey, Adam Tauman Kalai.* [[abs](https://arxiv.org/abs/2310.02304)]. Preprint. 2310.02304.
+   *Eric Zelikman, Eliana Lorch, Lester Mackey, Adam Tauman Kalai.* [[abs](https://arxiv.org/abs/2310.02304)]. Preprint. 2310.
 
