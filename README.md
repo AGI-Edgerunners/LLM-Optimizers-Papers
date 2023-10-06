@@ -8,7 +8,7 @@ Must-read Papers on Large Language Model (LLMs) as Optimizers and Automatic Opti
 
 ## 🏷️ News
 
-- **2023-10-06 We create this paper list on *LLM as Optimizers* .**
+- **2023-10-06 We create this paper list on *LLM as Optimizers and Automatic Optimization for LLMs* .**
 
 ## 🗞️ Papers
 
