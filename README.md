@@ -15,3 +15,12 @@ Must-read Papers on Large Language Model (LLMs) as Optimizers.
 1. **Large Language Models as Optimizers**
 
    *Chengrun Yang, Xuezhi Wang, Yifeng Lu, Hanxiao Liu, Quoc V. Le, Denny Zhou, Xinyun Chen.* [[abs](https://arxiv.org/abs/2309.03409)]. Preprint. 2309.03409.
+
+1. **Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution**
+
+   *Chrisantha Fernando, Dylan Banarse, Henryk Michalewski, Simon Osindero, Tim Rocktäschel.* [[abs](https://arxiv.org/abs/2309.16797)]. Preprint. 2309.16797.
+
+1. **Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers**
+
+   *Qingyan Guo, Rui Wang, Junliang Guo, Bei Li, Kaitao Song, Xu Tan, Guoqing Liu, Jiang Bian, Yujiu Yang.* [[abs](https://arxiv.org/abs/2309.08532)]. Preprint. 2309.08532.
+
