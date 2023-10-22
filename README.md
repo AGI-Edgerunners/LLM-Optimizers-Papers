@@ -48,3 +48,6 @@ Must-read Papers on Large Language Model (LLM) as Optimizers and Automatic Optim
 
    *Omar Khattab, Arnav Singhvi, Paridhi Maheshwari, Zhiyuan Zhang, Keshav Santhanam, Sri Vardhamanan, Saiful Haq, Ashutosh Sharma, Thomas T. Joshi, Hanna Moazam, Heather Miller, Matei Zaharia, Christopher Potts.* [[abs](https://arxiv.org/abs/2310.03714)]. Preprint 2023.10.
 
+1. **Eureka: Human-Level Reward Design via Coding Large Language Models**
+
+   *Yecheng Jason Ma, William Liang, Guanzhi Wang, De-An Huang, Osbert Bastani, Dinesh Jayaraman, Yuke Zhu, Linxi Fan, Anima Anandkumar.* [[abs](https://arxiv.org/abs/2310.12931)]. Preprint 2023.10.
