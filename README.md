@@ -55,3 +55,12 @@ Must-read Papers on Large Language Model (LLM) as Optimizers and Automatic Optim
 1. **Eureka: Human-Level Reward Design via Coding Large Language Models**
 
    *Yecheng Jason Ma, William Liang, Guanzhi Wang, De-An Huang, Osbert Bastani, Dinesh Jayaraman, Yuke Zhu, Linxi Fan, Anima Anandkumar.* [[abs](https://arxiv.org/abs/2310.12931)]. Preprint 2023.10.
+
+
+## :star: Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=AGI-Edgerunners/LLM-Optimizers-Papers&type=Date)](https://star-history.com/#AGI-Edgerunners/LLM-Optimizers-Papers&Date)
+
+
+
+
