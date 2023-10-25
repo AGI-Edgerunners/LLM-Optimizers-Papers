@@ -16,6 +16,10 @@ Must-read Papers on Large Language Model (LLM) as Optimizers and Automatic Optim
 
    *Mingkai Deng, Jianyu Wang, Cheng-Ping Hsieh, Yihan Wang, Han Guo, Tianmin Shu, Meng Song, Eric P. Xing, Zhiting Hu.* [[abs](https://arxiv.org/abs/2205.12548)]. EMNLP 2022.
 
+1. **Large Language Models Are Human-Level Prompt Engineers**
+
+   *Yongchao Zhou, Andrei Ioan Muresanu, Ziwen Han, Keiran Paster, Silviu Pitis, Harris Chan, Jimmy Ba.* [[abs](https://arxiv.org/abs/2211.01910)]. ICLR 2023.
+
 1. **GrIPS: Gradient-free, Edit-based Instruction Search for Prompting Large Language Models**
 
    *Archiki Prasad, Peter Hase, Xiang Zhou, Mohit Bansal.* [[abs](https://arxiv.org/abs/2203.07281)]. EACL 2023.
