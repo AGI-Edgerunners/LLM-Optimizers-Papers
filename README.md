@@ -32,6 +32,10 @@ Must-read Papers on Large Language Model (LLM) as Optimizers and Automatic Optim
 
    *Weiran Yao, Shelby Heinecke, Juan Carlos Niebles, Zhiwei Liu, Yihao Feng, Le Xue, Rithesh Murthy, Zeyuan Chen, Jianguo Zhang, Devansh Arpit, Ran Xu, Phil Mui, Huan Wang, Caiming Xiong, Silvio Savarese.* [[abs](https://arxiv.org/abs/2308.02151)]. Preprint 2023.08.
 
+1. **Forget Demonstrations, Focus on Learning from Textual Instructions**
+
+   *Renze Lou, Wenpeng Yin.* [[abs](https://arxiv.org/abs/2308.03795)]. Preprint 2023.08.
+
 1. **Large Language Models as Optimizers**
 
    *Chengrun Yang, Xuezhi Wang, Yifeng Lu, Hanxiao Liu, Quoc V. Le, Denny Zhou, Xinyun Chen.* [[abs](https://arxiv.org/abs/2309.03409)]. Preprint 2023.09.
