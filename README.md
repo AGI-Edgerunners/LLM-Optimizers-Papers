@@ -68,6 +68,14 @@ Must-read Papers on Large Language Model (LLM) as Optimizers and Automatic Optim
 
     *Xinyuan Wang, Chenxi Li, Zhen Wang, Fan Bai, Haotian Luo, Jiayou Zhang, Nebojsa Jojic, Eric P. Xing, Zhiting Hu.* [[abs](https://arxiv.org/abs/2310.16427)], Preprint 2023.10
 
+1. **OptiMUS: Optimization Modeling Using MIP Solvers and large language models**
+
+   *Ali AhmadiTeshnizi, Wenzhi Gao, Madeleine Udell.* [[abs](https://arxiv.org/abs/2310.06116)], Preprint 2023.10
+
+1. **AI-Copilot for Business Optimisation: A Framework and A Case Study in Production Scheduling**
+
+   *Pivithuru Thejan Amarasinghe, Su Nguyen, Yuan Sun, Damminda Alahakoon.* [[abs](https://arxiv.org/abs/2309.13218)], Preprint 2023.10
+
 ## :star: Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=AGI-Edgerunners/LLM-Optimizers-Papers&type=Date)](https://star-history.com/#AGI-Edgerunners/LLM-Optimizers-Papers&Date)
