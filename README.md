@@ -88,7 +88,7 @@ Must-read Papers on Large Language Model (LLM) as Optimizers and Automatic Optim
 
    *ICLR 2024 Conference Submission8133 Authors.* [[openreview](https://openreview.net/forum?id=OOxotBmGol)], ICLR submission 2023.10
 
-2. **Large Language Models as Evolutionary Optimizers**
+1. **Large Language Models as Evolutionary Optimizers**
 
    *Shengcai Liu, Caishun Chen, Xinghua Qu, Ke Tang, Yew-Soon Ong.* [[abs](https://arxiv.org/abs/2310.19046)], Preprint 2023.11
 
