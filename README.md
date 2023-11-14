@@ -76,6 +76,22 @@ Must-read Papers on Large Language Model (LLM) as Optimizers and Automatic Optim
 
    *Pivithuru Thejan Amarasinghe, Su Nguyen, Yuan Sun, Damminda Alahakoon.* [[abs](https://arxiv.org/abs/2309.13218)], Preprint 2023.10
 
+1. **Enhancing Genetic Improvement Mutations Using Large Language Models**
+
+   *Alexander E.I. Brownlee, James Callan, Karine Even-Mendoza, Alina Geiger, Carol Hanna, Justyna Petke, Federica Sarro, Dominik Sobania.* [[abs](https://arxiv.org/abs/2310.19813)], Preprint 2023.10
+
+1. **Language Model Decoding as Direct Metrics Optimization**
+
+   *Haozhe Ji, Pei Ke, Hongning Wang, Minlie Huang.* [[abs](https://arxiv.org/abs/2310.01041)], Preprint 2023.10
+
+1. **Large Language Models to Enhance Bayesian Optimization**
+
+   *ICLR 2024 Conference Submission8133 Authors.* [[openreview](https://openreview.net/forum?id=OOxotBmGol)], ICLR submission 2023.10
+
+1. **Large Language Models as Evolutionary Optimizers**
+
+   *Shengcai Liu, Caishun Chen, Xinghua Qu, Ke Tang, Yew-Soon Ong.* [[abs](https://arxiv.org/abs/2310.19046)], Preprint 2023.11
+
 ## :star: Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=AGI-Edgerunners/LLM-Optimizers-Papers&type=Date)](https://star-history.com/#AGI-Edgerunners/LLM-Optimizers-Papers&Date)
