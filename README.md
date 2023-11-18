@@ -100,6 +100,10 @@ Must-read Papers on Large Language Model (LLM) as Optimizers and Automatic Optim
 
    *Noah Hollmann, Samuel Müller, Frank Hutter.* [[abs](https://arxiv.org/abs/2305.03403)], NeurIPS 2023
 
+1. **Plum: Prompt Learning using Metaheuristic**
+
+   *Rui Pan, Shuo Xing, Shizhe Diao, Xiang Liu, Kashun Shum, Jipeng Zhang, Tong Zhang.* [[abs](https://arxiv.org/abs/2311.08364)], Preprint 2023.11
+
 ## :star: Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=AGI-Edgerunners/LLM-Optimizers-Papers&type=Date)](https://star-history.com/#AGI-Edgerunners/LLM-Optimizers-Papers&Date)
