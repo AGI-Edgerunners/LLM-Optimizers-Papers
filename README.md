@@ -104,6 +104,10 @@ Must-read Papers on Large Language Model (LLM) as Optimizers and Automatic Optim
 
    *Rui Pan, Shuo Xing, Shizhe Diao, Xiang Liu, Kashun Shum, Jipeng Zhang, Tong Zhang.* [[abs](https://arxiv.org/abs/2311.08364)], Preprint 2023.11
 
+1. **ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution**
+
+   *Haoran Ye, Jiarui Wang, Zhiguang Cao, Guojie Song.* [[abs](https://arxiv.org/abs/2402.01145)], [[code](https://github.com/ai4co/LLM-as-HH)], Preprint 2024.02
+
 ## :star: Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=AGI-Edgerunners/LLM-Optimizers-Papers&type=Date)](https://star-history.com/#AGI-Edgerunners/LLM-Optimizers-Papers&Date)
