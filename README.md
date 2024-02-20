@@ -108,6 +108,10 @@ Must-read Papers on Large Language Model (LLM) as Optimizers and Automatic Optim
 
    *Haoran Ye, Jiarui Wang, Zhiguang Cao, Guojie Song.* [[abs](https://arxiv.org/abs/2402.01145)], [[code](https://github.com/ai4co/LLM-as-HH)], Preprint 2024.02
 
+1. **Training Language Model Agents without Modifying Language Models**
+
+   *Shaokun Zhang, Jieyu Zhang, Jiale Liu, Linxin Song, Chi Wang, Ranjay Krishna, Qingyun Wu* [[abs](https://arxiv.org/pdf/2402.11359.pdf)], Preprint 2024.02
+
 ## :star: Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=AGI-Edgerunners/LLM-Optimizers-Papers&type=Date)](https://star-history.com/#AGI-Edgerunners/LLM-Optimizers-Papers&Date)
