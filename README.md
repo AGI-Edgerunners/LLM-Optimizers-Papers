@@ -112,6 +112,10 @@ Must-read Papers on Large Language Model (LLM) as Optimizers and Automatic Optim
 
    *Shaokun Zhang, Jieyu Zhang, Jiale Liu, Linxin Song, Chi Wang, Ranjay Krishna, Qingyun Wu* [[abs](https://arxiv.org/pdf/2402.11359.pdf)], Preprint 2024.02
 
+1. **LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation**
+
+   *Zeyuan Ma, Hongshu Guo, Jiacheng Chen, Guojun Peng, Zhiguang Cao, Yining Ma, Yue-Jiao Gong*, [[abs]](https://arxiv.org/abs/2403.01131), Preprint 2024.03
+
 ## :star: Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=AGI-Edgerunners/LLM-Optimizers-Papers&type=Date)](https://star-history.com/#AGI-Edgerunners/LLM-Optimizers-Papers&Date)
