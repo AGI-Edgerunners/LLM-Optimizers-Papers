@@ -116,6 +116,10 @@ Must-read Papers on Large Language Model (LLM) as Optimizers and Automatic Optim
 
    *Zeyuan Ma, Hongshu Guo, Jiacheng Chen, Guojun Peng, Zhiguang Cao, Yining Ma, Yue-Jiao Gong*, [[abs]](https://arxiv.org/abs/2403.01131), Preprint 2024.03
 
+1. **Language Agents as Optimizable Graphs**
+
+   *Mingchen Zhuge, Wenyi Wang, Louis Kirsch, Francesco Faccio, Dmitrii Khizbullin, Jürgen Schmidhuber*, [[abs](https://arxiv.org/abs/2402.16823)], [[code](https://github.com/metauto-ai/gptswarm)], [[page](https://gptswarm.org/)], Preprint 2024.03
+
 ## 📚 Resources
 
 1. Large Language Models / Foundation Models for Combinatorial Optimization: https://github.com/ai4co/awesome-fm4co
